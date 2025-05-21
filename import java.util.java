@@ -167,7 +167,7 @@ public class Jugador {
         for (Map.Entry<Integer, Jugador> entry : plantilla.entrySet()) {
             System.out.println("Dorsal " + entry.getKey() + ": " + entry.getValue());
         }
-        System.out.println("----------------------------------------------------");
+        System.out.println("-----------------------------------------------------");
     }
 
     /**
