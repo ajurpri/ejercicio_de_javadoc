@@ -10,7 +10,7 @@ import java.util.*;
  * Clase principal que representa una aplicación de consola para gestionar socios de un club.
  * Permite añadir, eliminar, modificar y listar socios, así como persistir la información en un archivo binario.
  *
- * @author Antonio
+ * @author Antonio, Alvaro Contreras
  * @version 1.0
  * @since 2025-05-20
  */

@@ -15,7 +15,7 @@ import java.util.Scanner;
  * </ul>
  * </p>
  *
- * @author Antonio David
+ * @author Antonio David, Alvaro Contreras
  * @version 1.0
  * @since 2025-05-20
  */
